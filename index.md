@@ -2,7 +2,7 @@
 title: Welcome to my blog
 ---
 
-#Welcome to my test page
+# Welcome to my test page
 ## You are more than welcome to look at this webpage which is quite empty and serves only as a test
 
 I am trying to learn how to develop a **GitHub pages**. After working for a long time with HTML and CSS it is an *interesting experience*.
